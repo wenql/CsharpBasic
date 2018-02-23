@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CsharpBasic.Models\CsharpBasic.Models.csproj" />
+    <ProjectReference Include="..\CsharpBasic.Utilities\CsharpBasic.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>
