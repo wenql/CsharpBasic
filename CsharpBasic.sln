@@ -3,16 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpBasic.Models", "CsharpBasic.Models\CsharpBasic.Models.csproj", "{BA812E97-7F99-4904-8D0D-40E289169EC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpBasic.Models", "CsharpBasic.Models\CsharpBasic.Models.csproj", "{BA812E97-7F99-4904-8D0D-40E289169EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpBasic.DataStructure.SeqList", "CsharpBasic.DataStructure.SeqList\CsharpBasic.DataStructure.SeqList.csproj", "{34998470-6EC6-4A6C-AEEB-9F997210BA9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpBasic.DataStructure.SeqList", "CsharpBasic.DataStructure.SeqList\CsharpBasic.DataStructure.SeqList.csproj", "{34998470-6EC6-4A6C-AEEB-9F997210BA9D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CsharpBasic.DataStructure", "CsharpBasic.DataStructure", "{6D0C88F8-11C5-41C6-B64A-162C363FE973}"
 	ProjectSection(SolutionItems) = preProject
-		Readme.txt = Readme.txt
+		线性表.txt = 线性表.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpBasic.Utilities", "CsharpBasic.Utilities\CsharpBasic.Utilities.csproj", "{000A6EDD-FA45-47E4-B167-D7D73238BFA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpBasic.Utilities", "CsharpBasic.Utilities\CsharpBasic.Utilities.csproj", "{000A6EDD-FA45-47E4-B167-D7D73238BFA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
