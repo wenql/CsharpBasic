@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2024
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpBasic.Models", "CsharpBasic.Models\CsharpBasic.Models.csproj", "{BA812E97-7F99-4904-8D0D-40E289169EC5}"
 EndProject
@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CsharpBasic.DataStructure",
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpBasic.Utilities", "CsharpBasic.Utilities\CsharpBasic.Utilities.csproj", "{000A6EDD-FA45-47E4-B167-D7D73238BFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpBasic.DataStructure.ChainList", "CsharpBasic.DataStructure.ChainList\CsharpBasic.DataStructure.ChainList.csproj", "{D6DB8E06-BF61-4CA0-9B32-1F49D13F5F27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,12 +34,17 @@ Global
 		{000A6EDD-FA45-47E4-B167-D7D73238BFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{000A6EDD-FA45-47E4-B167-D7D73238BFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{000A6EDD-FA45-47E4-B167-D7D73238BFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DB8E06-BF61-4CA0-9B32-1F49D13F5F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DB8E06-BF61-4CA0-9B32-1F49D13F5F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DB8E06-BF61-4CA0-9B32-1F49D13F5F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DB8E06-BF61-4CA0-9B32-1F49D13F5F27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{34998470-6EC6-4A6C-AEEB-9F997210BA9D} = {6D0C88F8-11C5-41C6-B64A-162C363FE973}
+		{D6DB8E06-BF61-4CA0-9B32-1F49D13F5F27} = {6D0C88F8-11C5-41C6-B64A-162C363FE973}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C057CC73-49DF-4812-8961-673FB562A796}
